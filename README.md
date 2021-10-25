@@ -32,3 +32,5 @@ conda env update -f environment.yml --prune
 Nicholls, Zebedee & Lewis, Jared (2021). Reduced Complexity Model Intercomparison Project (RCMIP) protocol (v5.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4589756
 
 O'Rourke, Patrick R; Smith, Steven J; McDuffie, Erin E; Klimont, Zbigniew; Crippa, Monica; Mott, Andrea; Wang, Shuxiao; Nicholson, Matthew B; Feng, Leyang; & Hoesly, Rachel M (2020). CEDS v_2020_09_11 Pre-Release Emission Data (v_2020_09_11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4025316
+
+Smith, Chris. (2021). FaIR v1.6.2 calibrated and constrained parameter set (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5513022
