@@ -1,3 +1,6 @@
+# Large input datasets that the process chain downloads
+data_input/fair-1.6.2-ar6
+
 # MacOS files
 *.DS_Store
 
