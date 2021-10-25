@@ -1,0 +1,15 @@
+name: cop26-pathways
+channels:
+  - chrisroadmap
+  - defaults
+dependencies:
+  - python=3.7
+  - climateforcing
+  - fair
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - numpy
+  - pandas
+  - scipy
+  - tqdm
