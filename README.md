@@ -27,6 +27,11 @@ conda activate cop26-pathways
 conda env update -f environment.yml --prune
 ```
 
+## reproduce
+
+After activating your environment (above), start a jupyter notebook, navigate to the `notebooks` directory, and then run the notebooks in order.
+
+
 ## references and acknowledgements
 
 Oliver Fricko, Petr Havlik, Joeri Rogelj, Zbigniew Klimont, Mykola Gusti, Nils Johnson, Peter Kolp, Manfred Strubegger, Hugo Valin, Markus Amann, Tatiana Ermolieva, Nicklas Forsell, Mario Herrero, Chris Heyes, Georg Kindermann, Volker Krey, David L. McCollum, Michael Obersteiner, Shonali Pachauri, Shilpa Rao, Erwin Schmid, Wolfgang Schoepp, Keywan Riahi, The marker quantification of the Shared Socioeconomic Pathway 2: A middle-of-the-road scenario for the 21st century, Global Environmental Change, Volume 42, 2017, Pages 251-267, 
