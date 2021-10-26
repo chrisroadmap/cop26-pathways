@@ -1,9 +1,6 @@
 # Large input datasets that the process chain downloads
 data_input/fair-1.6.2-ar6
 
-# Restricted access IEA data
-data_input/iea
-
 # MacOS files
 *.DS_Store
 
