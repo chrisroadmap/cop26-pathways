@@ -1,6 +1,10 @@
 # cop26-pathways
 Climate projections for near-term pathways provided for illustration for COP26.
 
+Following the announcement of the Global Methane Pledge to reduce methane emissions by 30%, we determined the effect this would have on climate by running this scenario - plus a few other pledges (40% and 50% methane reductions) - in the IPCC AR6 calibration of the FaIR simple climate model.
+
+![Projections of 30%, 40% and 50% methane reductions by 2030 and their effect on global mean temperatures. In addition, a coal phase out by 2040 on top of a 30% methane reduction commitment is shown.](figures/difference-versus-ssp245.png)
+
 ## installation
 
 ### requirements
